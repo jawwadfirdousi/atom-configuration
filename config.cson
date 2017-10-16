@@ -1,0 +1,37 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "0f27ba18-4003-4b45-aa8c-e7e59e299250"
+  "atom-package-deps":
+    ignored: []
+  core:
+    autoHideMenuBar: true
+    excludeVcsIgnoredPaths: false
+    openEmptyEditorOnStart: false
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 25
+  "js-hyperclick":
+    jumpToImport: true
+  linter: {}
+  "linter-eslint":
+    fixOnSave: true
+  "linter-ui-default":
+    panelHeight: 116
+    showPanel: true
+  "markdown-preview":
+    breakOnSingleNewline: true
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  "tree-view":
+    alwaysOpenExisting: true
+  welcome:
+    showOnStartup: false
