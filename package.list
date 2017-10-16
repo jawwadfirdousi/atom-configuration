@@ -1,0 +1,17 @@
+atom-beautify@0.30.5
+atom-jade@0.3.0
+atom-material-syntax@1.0.7
+busy-signal@1.4.3
+docblockr@0.11.0
+editorconfig@2.2.2
+highlight-selected@0.13.1
+hyperclick@0.1.5
+intentions@1.1.5
+js-hyperclick@1.11.1
+linter@2.2.0
+linter-eslint@8.3.2
+linter-ui-default@1.2.4
+minimap@4.29.7
+minimap-git-diff@4.3.1
+minimap-highlight-selected@4.6.1
+
