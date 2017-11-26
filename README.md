@@ -1,1 +1,1 @@
-run apm install --packages-file packages.list after cloning to install packages
+run apm install --packages-file package.list after cloning to install packages
